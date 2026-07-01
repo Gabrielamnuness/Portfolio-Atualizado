@@ -12,3 +12,6 @@ npm run dev
 - Foto: substitua `public/gabriela.jpg`
 - Currículo: substitua `public/curriculo.pdf`
 - Dados pessoais/projetos: edite `src/data/site.ts`
+
+## Link do Portfolio 
+https://gabrielamonteiro.netlify.app/
