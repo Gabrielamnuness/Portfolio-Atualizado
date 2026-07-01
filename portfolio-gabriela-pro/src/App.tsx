@@ -1,0 +1,2 @@
+import Background from './components/Background';import Header from './components/Header';import Hero from './components/Hero';import About from './components/About';import Skills from './components/Skills';import Projects from './components/Projects';import Timeline from './components/Timeline';import Contact from './components/Contact';
+export default function App(){return <><Background/><Header/><main><Hero/><About/><Skills/><Projects/><Timeline/><Contact/></main></>}
