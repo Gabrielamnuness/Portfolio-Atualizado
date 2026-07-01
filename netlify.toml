@@ -1,3 +1,4 @@
 [build]
+  base = "portfolio-gabriela-pro"
   command = "npm run build"
   publish = "dist"
